@@ -1,9 +1,9 @@
-import ui
+import upi
 
 
 def main():
     try:
-        ui.menu()
+        upi.menu()
     except KeyboardInterrupt:
         print(ui.RESET + "\n[ SIMULATION STOPPED ]")
 
