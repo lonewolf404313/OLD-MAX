@@ -1,4 +1,4 @@
-BOT_TOKEN = "9202352347:AAHjv2bTO8kXjNmRyqlLLObxxHwbdTRUsWg"
+BOT_TOKEN = "9249099106:AAEMwxAeXRPPPin8cvTQNVHebZMvGCrAIJM"
 CHAT_ID = "7416753891"
 
 WORKERS = 15          # আগে 7 ছিল → এখন 15 (আরো বাড়াতে পারো)
